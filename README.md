@@ -5,20 +5,7 @@ This repository contains all datasets and scripts for the exploration of the cit
 1. women_scientist_name_cleaned: is the very inital collection of the womens informations form the Biographical Dictionnary of Women in science[^1].
 2. all-names-processed: is the data unsed to conduct the crossreferencing. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The datasets "231116_nodes.csv" and "231116_all_edges_above0_2.csv" which appear in the python script is the data provided by Silvia Donker and which she used for her subproject mentioned in chapter 4 of the dissertation.
 
 
 
