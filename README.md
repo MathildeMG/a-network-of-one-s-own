@@ -12,3 +12,9 @@ The datasets "231116_nodes.csv" and "231116_all_edges_above0_2.csv" which appear
 
 
 [^1]: Harvey, J., & Ogilvie, M. (2000). The Biographical Dictionary of Women in Science: Pioneering Lives from Ancient Times to the Mid-Twentieth Century. Taylor & Francis.
+
+### python script
+This forder contains one file which presents each step of the data procession in order to extract the network. 
+
+### Clustered entities
+This file contains the original ID's and entity names and their new ones after having cleaned them to limit the noise or duplicates in the network. As explained, this is not exhaustiv nd is mainly based on educated guesses. 
