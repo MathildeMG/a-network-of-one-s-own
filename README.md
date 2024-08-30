@@ -1,3 +1,8 @@
+
+![A network of one’s own](https://github.com/user-attachments/assets/2c40140e-bde1-43e9-87c0-970fedac667c)
+
+
+
 # a-network-of-one-s-own
 This repository contains all datasets and scripts for the exploration of the citation network of natural philosophy. 
 
